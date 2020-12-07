@@ -1,0 +1,7 @@
+{
+	"parent":"block/cube_all",
+	"textures":
+	{
+		"all":"variated/redstone_ore/1"
+	}
+}
