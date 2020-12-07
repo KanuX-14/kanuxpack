@@ -1,24 +1,15 @@
 # KanuXPack
 Minecraft Resource Pack made from various creators.
 
-|-========== More Hats ==========-|
+## Requirements ##
 
-Renamed carved pumpkin:
-   1.Archer
-   2.Armorer
-   3.Desert
-   4.Farmer
-   5.Fisher
-   6.Lib
-   7.Savanna
-   8.Shepherd
-   9.Snow
-   10.Swamp
-   11.Witch
-   12.Bee
-   13.Phantom
+You need to have Minecraft 1.16.4 installed. Also OptiFine is required. 
 
-|-========== Those from bellow have the skills ==========-|
+## |-========== More Hats ==========-| ##
+
+Renamed carved pumpkin: Archer - Armorer - Desert - Farmer - Fisher - Lib - Savanna - Shepherd - Snow - Swamp - Witch - Bee - Phantom
+
+## |-========== Those from bellow have the skills ==========-| ##
 
 |=> MrBlueYeti - Better animals (general)
 \-> https://www.curseforge.com/members/mrblueyeti/projects
